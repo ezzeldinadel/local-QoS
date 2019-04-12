@@ -19,7 +19,7 @@ pip3 install scapy-python3
 First clone repository
 
 ```
-git clone https://github.com/tomcusack1/local-QoS.git
+git clone https://github.com/ezzeldinadel/local-QoS.git
 ```
 
 Ensure the shell scripts (main.sh and daily_analysis.sh) have 777 and executable priviledges and place the following records into your crontab.
